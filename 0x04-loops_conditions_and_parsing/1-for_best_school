@@ -1,10 +1,11 @@
 #!/usr/bin/env bash
 /*This program prints Best School 10 times. */
 
-int main (i=10){
+for (( Best School=10; Best School>0; Best Schooil-- ))
+do
+	echo -n "Best School "
+done
 
-printf("Best School");
-
-return 0;
+printf(\n);
 
 }
