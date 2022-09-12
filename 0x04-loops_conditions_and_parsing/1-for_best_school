@@ -1,2 +1,10 @@
 #!/usr/bin/env bash
+/*This program prints Best School 10 times. */
 
+int main (i=10){
+
+printf("Best School");
+
+return 0;
+
+}
