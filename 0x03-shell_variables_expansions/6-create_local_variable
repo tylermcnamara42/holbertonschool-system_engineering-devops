@@ -1,2 +1,2 @@
 #!/bin/bash
-
+f00 () { Name="BEST' ; Value="School" }
