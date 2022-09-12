@@ -6,6 +6,6 @@ do
 	echo -n "Best School "
 done
 
-printf"\n";
+printf "\n";
 
 }
