@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-/*This program prints Best School 10 times. */
+#This program prints Best School 10 times. 
 
 
 #include <stdio.h>
