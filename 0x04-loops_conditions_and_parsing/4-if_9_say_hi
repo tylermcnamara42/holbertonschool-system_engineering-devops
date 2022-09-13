@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
+/* Bash script with a while loop that displays Best School 10 times but for the 9th iteration displays Best School.  */
+
 

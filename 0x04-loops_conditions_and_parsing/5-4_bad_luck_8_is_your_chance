@@ -1,2 +1,5 @@
 #!/usr/bin/env bash
+/* Bash script 1 to 10 uses a while loop. Displays bad luck on fourth iteration. Displays good luck on 8th iteration. Displays Best School for other iterations. */
+
+
 
