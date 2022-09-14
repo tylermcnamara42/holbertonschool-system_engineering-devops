@@ -1,4 +1,10 @@
 #!/usr/bin/env bash
 #Best school while loop 
 
+i=0
+while((i<10))
+do
+	echo "BEST School'
+	"i++"
+done
 
