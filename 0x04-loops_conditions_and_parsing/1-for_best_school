@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-for _ n{1..10}
+for _ in{1..10}
 do
 	echo "Best School"
 done
