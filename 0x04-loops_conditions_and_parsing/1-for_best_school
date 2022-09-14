@@ -5,12 +5,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main () 
-{
- int x;   
-	for (x=0; x < 10; x=x+1)
-         {
-		printf("Best School, x");
-         }
- return(0);
-}
+for _ n{1..10}
+	echo "Best School"
+done
