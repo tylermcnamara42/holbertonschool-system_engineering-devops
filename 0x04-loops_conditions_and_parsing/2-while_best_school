@@ -3,12 +3,11 @@
 
 #include <stdio.h>
 
-{
+
 i=0
 while((i<10))
 do
-	{
 	echo "BEST School'
 		"i++"
-	}
-}
+	
+
