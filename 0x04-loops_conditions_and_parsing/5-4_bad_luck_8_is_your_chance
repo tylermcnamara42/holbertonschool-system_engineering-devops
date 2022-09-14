@@ -1,5 +1,13 @@
 #!/usr/bin/env bash
 # Bash script 1 to 10 uses a while loop. Displays bad luck on fourth iteration. Displays good luck on 8th iteration. Displays Best School for other iterations. 
 
-
+i=1
+while ["$i"=4]; then
+	echo "bad luck"
+elif ["$i"=8]; then
+	echo "good luck"
+	echo "Best School'
+	fi
+	((i++))
+done
 
