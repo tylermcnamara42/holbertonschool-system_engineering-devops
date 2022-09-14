@@ -9,5 +9,5 @@ while((i<10))
 do
 	echo "BEST School'
 		"i++"
-	
+	done
 
