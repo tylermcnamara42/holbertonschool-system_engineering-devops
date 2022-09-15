@@ -3,5 +3,5 @@
 
 for INFO in *
 do 
-	echo "$INFO" | cut -d'-' f2
+	echo "$INFO" | cut -d'-' -f2
 done
